@@ -1,0 +1,8 @@
+{
+  "short_name": "examprep",
+  "name": "Biggest online exam portal",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
